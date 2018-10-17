@@ -8,7 +8,7 @@ Requirements:
 
 * Run `npm install` to install dependencies
 
-* In terminal - runn command `node index.js` to play!
+* In terminal - run command `node index.js` to play!
 
 The theme is baseball teams.
 
